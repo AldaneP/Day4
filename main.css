@@ -9,6 +9,17 @@
 .form-header {
   margin-top: 0;
   color: #fff;
+  margin-bottom: 3.5%;
+  text-transform: uppercase;
+  letter-spacing: 1.11px;
+}
+
+.text {
+  color: #fff;
+  line-height: 1.4;
+  width:50%;
+  text-align: center;
+  margin: 0 auto;
 }
 .homepage {
   text-align: center;
@@ -19,9 +30,9 @@
 
 .register-form {
   border: 1px solid #333;
-  background: rgba(69, 69, 69, 0.66);
-  padding: 5% 5%;
-  width: 33%;
+  background: rgba(69, 69, 69, 0.45);
+  padding: 3% 4% 3.5% 4%;
+  width: 60%;
   margin: 0 auto;
 }
 
